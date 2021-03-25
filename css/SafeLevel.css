@@ -1,0 +1,24 @@
+html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#main-body{
+    margin-right: 1vw;
+    margin-left: 1vw;
+    padding-bottom: 1.5vw;
+}
+
+h1,#subtitle{
+    text-align: center;
+}

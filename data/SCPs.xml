@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SCPs>
+    <SCP>
+        <id>SCP-015</id>
+
+        <name>噩梦管道</name>
+
+        <level>Euclid</level>
+
+        <pic_src>scp-015 噩梦管道.png</pic_src>
+
+        <description id="1">
+            SCP-015位于███████的一间被一团管道，通风管，锅炉及其它各种各样铅管制造设备所塞满的仓库内。
+        </description>
+        <description id="2">
+            管道似乎在不被观察的情况下会进行生长，并试图通过下水道与其它地下管道连接附近的建筑。
+        </description>
+        <description id="3">
+            目前估计SCP-015包含超过190公里（120英里）的管道，直径在2.5厘米到超过1米之间。
+        </description>
+        <description id="4">
+            一些管道看起来比较新，其它的则有些生锈并有裂缝。
+        </description>
+        <description id="5">
+            据报告管道是由骨头，木材，钢铁，被挤压的灰烬，人类的肉体，玻璃及花岗岩组成的。没有管道被发现由铅，塑料，铜或任何传统的管道制造材料组成。
+        </description>
+        <description id="6">
+            SCP-015会对侵略行为和工具产生反应。
+            任何表现出暴力倾向，携带工具或无论用什么方法试图去修理或毁坏SCP-015的人员会引起SCP-015的反应。作出行动者身边的管道会爆裂，并对目标身上喷射其內含物数秒直到管道的流动突然停止。
+        </description>
+        <description id="7">
+            据报告管道中喷出的物质包含油，水银，老鼠，至今未被鉴定出的某种昆虫碎片，碎玻璃，海水，内脏与铁水。管道会持续在受试者周围爆裂直到目标死亡或撤退。
+        </description>
+
+        <measures>
+            SCP-015无法移动，只能原地隔离。任何时候在SCP-015的周围都必须保持2米（6尺）的空隙区域，不允许任何种类的建筑与当前隔离区相连。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-015
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-049</id>
+
+        <name>疫医</name>
+
+        <level>Euclid</level>
+
+        <pic_src>SCP-049 疫医.png</pic_src>
+
+        <description>
+            SCP-049是一个人形实体，身高1.9米，外形与中世纪的瘟疫医生相符。
+        </description>
+        <description>
+            虽然SCP-049看上去穿着厚长袍和表明其职业的陶制面具，但这些服装似乎是随着时间的推移从SCP-049的体内生长而出的。
+        </description>
+        <description>
+            尽管如此，X光检查表明，SCP-049的表层之下确实有人类骨骼结构。
+        </description>
+        <description>
+            SCP-049能够以多种语言发言，但倾向于使用英语或中世纪法语。
+        </description>
+        <description>
+            虽然通常情况下SCP-049亲切友好，但若感觉到它所谓的“瘟疫”之存在便会变得暴躁，甚至极具攻击性。
+        </description>
+        <description>
+            SCP-049会对其认为受瘟疫影响的人类个体产生敌意，经常会达到应加以控制的程度。如果不加控制，SCP-049通常会试图杀死该人类个体；
+        </description>
+        <description>
+            SCP-049能够通过直接的皮肤接触使生物体的所有生理机能停止。
+        </description>
+        <description>
+            SCP-049在杀人后曾表现出沮丧或悔恨，表示这样的行为对消灭“瘟疫”帮助极小，但接下来通常会使用其总是随身携带的一个黑色医疗包3中的器具对尸体进行粗糙的手术。
+        </description>
+        <description>
+            手术往往会导致SCP-049-2出现，但并非总能成功。SCP-049-2实体是经由SCP-049的手术复活的尸体。
+        </description>
+        <description>
+            这些尸体似乎并没有保留它们原本的记忆或精神功能，仅仅具备基本的运动能力和反应机制。
+        </description>
+        <description>
+            尽管这些实体並不活躍，很少移动且通常采取走动的方式，但如果被激怒或受到SCP-049指示，也可能变得极具攻击性。
+        </description>
+        <description>
+            SCP-049-2表现出活跃的生理机能，但与目前已知的人体生理学有很大不同。
+        </description>
+        <description>
+            尽管发生了这些变化，SCP-049总是称这些实体已被“治愈”。
+        </description>
+
+
+
+        <measures>
+            SCP-049被收容在Site-19的研究区（Research Sector）-02中的标准安全人形收容单元内。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-049
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-137</id>
+
+        <name>真实玩具</name>
+
+        <level>Euclid</level>
+
+        <pic_src>scp-137 真实玩具.jpg</pic_src>
+
+        <description>
+            SCP-137是一个能操纵玩具的个体，它能赋予玩具其本身所代表的东西的物理性质、大小和形状。
+        </description>
+        <description>
+            举例来说，一只泰迪熊会变成一只真熊，并作出相应的行为。
+        </description>
+        <description>
+            SCP-137无法操纵玩具以外的其他任何对象。
+        </description>
+        <description>
+            观测到SCP-137能操纵物体的距离是250米，但直到进一步实验完成之前，假定其能力的最大作用范围是500米。
+        </description>
+        <description>
+            实验证明SCP-137能呈现出被其操纵的玩具的特性，但只有孩子能察觉到。
+        </description>
+        <description>
+            一个玩具士兵会变成一个暴力的，全副武装的男人。 一把玩具枪能射出子弹。一只玩具狮子会攻击和杀死人类。然而，它缺乏真正的智能。
+        </description>
+        <description>
+            对象通常栖身于一个公主娃娃中
+        </description>
+
+        <measures>
+            SCP-137应被安置在一个上锁的房间内，并提供一把梳子和一张绘有乡村草原的海报，以保持对象的温和与驯服。
+        </measures>
+        <measures>
+            应向SCP-137提供一日三餐。
+        </measures>
+        <measures>
+            任何情况下不允许将任何玩具带到SCP-137周围500米范围内。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-137
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-173</id>
+
+        <name>雕像</name>
+
+        <level>Euclid</level>
+
+        <pic_src>scp-173 雕像.jpg</pic_src>
+
+        <description>
+            于1993年移动到Site-19。
+        </description>
+        <description>
+            起源至今未知。它由混凝土和钢筋建造，并有Krylon牌喷漆的痕迹。
+        </description>
+        <description>
+            SCP-173会移动且具有高度敌意。
+        </description>
+        <description>
+            该物体在直接视线内无法移动。与SCP-173之间的视线时刻都不得中断。
+        </description>
+        <description>
+            据报告该物体的攻击方式为折断头骨底处的颈部，或是勒颈。
+        </description>
+        <description>
+            人事报告称，当收容间内无人存在时，其中会传出刮石的声音。
+        </description>
+        <description>
+            地板上的红棕色物质为粪便和血液的混合物。这些物料的来源未知。内部环境须每两周清洁一次。
+        </description>
+
+        <measures>
+            项目SCP-173应始终保管于一个上锁的收容间内。
+        </measures>
+        <measures>
+            当必须进入SCP-173的收容间时，人员数目不论何时都不得少于三人且须将门重新上锁。
+        </measures>
+        <measures>
+            至少须有两人全程与SCP-173保持眼神接触，直到所有人员都离开收容间并重新上锁为止。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-173
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-2107</id>
+
+        <name>健怡幽灵™</name>
+
+        <level>Euclid</level>
+
+        <pic_src>scp-2107 健怡幽灵™.png</pic_src>
+
+        <description>
+            SCP-2107是一种名为“健怡幽灵™”的软饮料,SCP-2107的饮料罐为用于软饮料的普通饮料罐，设计统一，在构成和表现上没有反常之处。
+        </description>
+        <description>
+            罐体上标有亮蓝色背景和突出显示的“健怡幽灵™”标志，标志下有醒目的“吓坏你的渴！”字样。
+        </description>
+        <description>
+            大部分个体在罐身上还有写着“天然幽灵制成”字样的标签；
+        </description>
+        <description>
+            罐身上没有营养信息,罐内液体在化学成分上没有异常，各项参数与常规健怡软饮料无异。
+        </description>
+        <description>
+            SCP-2107迄今只发现有单独罐装。
+        </description>
+        <description>
+            在喝下的3到7分钟内，对象（SCP-2107-a）将经历超自然活动，一般为通俗所言幽灵或某种异常实体闹鬼。
+        </description>
+        <description>
+            效应持续到SCP-2107在对象体内被完全分解，具体时点尚未确定，一般是在喝下后的一到三小时3。
+        </description>
+        <description>
+            研究已确认闹鬼效应的烈度（从主观异常方面、物理伤害可能和此种伤害的烈度来定义）与SCP-2107的饮用量直接相关。
+        </description>
+
+        <measures>
+            所有SCP-2107存放于Site-19的CNSI1收容锁柜。
+        </measures>
+        <measures>
+            试验前可将任意数量个体转移到冷藏CNSI单元。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-2107
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-3529</id>
+
+        <name>蛇 = 萌萌蛇 = 可可爱爱 ^~^</name>
+
+        <level>Euclid</level>
+
+        <pic_src>scp-3529 蛇 = 萌萌蛇 = 可可爱爱 ^~^.jpg</pic_src>
+
+        <description>
+            SCP-3529指一种影响5%到7%的Pythonidae科蛇类的现象。
+        </description>
+        <description>
+            这些蛇（指定为SCP-3529-1）虽然单一个体不存在异常，但是一旦多条聚集到一处，它们便开始表现出异常效应。1
+        </description>
+        <description>
+            一旦达到合适的数量，SCP-3529-1个体将开始用它们的身躯组成各种字母和符号，以模仿编程语言Python。
+        </description>
+        <description>
+            一旦完成一行代码，另一条SCP-3529-1个体将咬住最后一个符号的组成个体，以执行本行代码。
+        </description>
+        <description>
+            SCP-3529生成的代码将立即影响个体周围的现实，将其重构以匹配代码的输出。
+        </description>
+        <description>
+            SCP-3529-1通常会在必要时创建代码以改变环境，生成食物和栖息地。
+        </description>
+        <description>
+            创建出的代码结构简单，很少涉及简单数学运算、循环、列表以及基础函数之外的内容。
+        </description>
+        <description>
+            变量的名称通常是通用的，以宽泛的名称影响理论上可以归入该名称的一切事物。例如变量“树”泛指SCP-3529影响范围内2的所有树木，不论物种、距离、大小，除非另行说明。
+        </description>
+
+        <measures>
+            所有捕获的SCP-3529-1个体被饲养于Site-37的II型网格球顶栖生区。
+        </measures>
+        <measures>
+            在围场内设置摄像机以记录每一起SCP-3529的发生。
+        </measures>
+        <measures>
+            每日对围场检查两次，以确认SCP-3529的发生未破坏围场或以其他方式对围场造成影响。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-3529
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-4016</id>
+
+        <name>鼠与麻</name>
+
+        <level>Euclid</level>
+
+        <pic_src>scp-4016 鼠与麻.jpeg</pic_src>
+
+        <description>
+            SCP-4016是一由麻线组成的智能人形结构体。
+        </description>
+        <description>
+            实体高约15厘米，重约10克。
+        </description>
+        <description>
+            SCP-4016的主异常效应为操控组成自己身体的麻线，以其创造出各种有不同用途的工具，包括清洁用具，艺术尖笔和简单武器。
+        </description>
+        <description>
+            虽未具备任何可辨识的感知器官，SCP-4016有能力对视觉和听觉交流做出反应。
+        </description>
+        <description>
+            它通过一套手势及靠麻线做出的表现符号来与人类互动。
+        </description>
+
+        <measures>
+            SCP-4016当前收容于Site-32特制收容间，配备类似其发现地点的陈设。
+        </measures>
+        <measures>
+            限2级以上人员接触该实体。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-4016
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-017</id>
+
+        <name>影魔</name>
+
+        <level>Keter</level>
+
+        <pic_src>scp-017 影魔.jpg</pic_src>
+
+        <description>
+            SCP-017具有人形轮廓，高80厘米，外形类似于人类幼童，但没有任何可辨别的外貌特征。
+        </description>
+        <description>
+            SCP-017身体似乎由一团模糊不清的烟幕组成。
+        </description>
+        <description>
+            烟幕内部至今没有成功发现过任何实体物质，但不能完全排除在未来发现的可能性。
+        </description>
+        <description>
+            一旦有影子产生且覆盖于SCP-017上，SCP-017会迅速产生反应。
+        </description>
+        <description>
+            它会立刻将影子来源整个包裹进烟幕之中，然后烟幕会变回通常大小。被包裹对象就此消失得无影无踪。
+        </description>
+
+        <measures>
+            SCP-017保存于一个大小为6米×6米×4米的房间，悬浮于正中央一个100厘米×50厘米×50厘米的丙烯酸玻璃牢笼内。
+        </measures>
+        <measures>
+            此房间的墙壁，天花板和地板都布满弧光照明灯，对准正中的笼子，以确保SCP-017时刻暴露于所有角度的光照下。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-017
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-035</id>
+
+        <name>占据面具</name>
+
+        <level>Keter</level>
+
+        <pic_src>scp-035 占据面具.gif</pic_src>
+
+        <description>
+            SCP-035的外观是一个白瓷喜剧面具，尽管其在某些时候会转变成悲剧面具。
+        </description>
+        <description>
+            SCP-035的眼部与口部不断渗出一种具有高度腐蚀性与退变性的粘性液体，任何与其接触的物体都将在一段时间内缓慢腐化，具体时间取决于物体材质，直至物体完全腐化为与该腐蚀物相同的液体。
+        </description>
+        <description>
+            玻璃似乎对项目影响的反应最慢，因此选择其作为直接容器的材料。
+        </description>
+        <description>
+            与该液体接触的生物体以相似方式反应，且无恢复的可能性。
+        </description>
+        <description>
+            液体的来源未知。液体仅可见于面具正面，其在面具另一面不渗出且不可见。
+        </description>
+        <description>
+            与SCP-035相距1.5-2米（5-6英尺1）或与其有视觉接触的受试者会感受到一种将其戴上的强烈冲动。
+        </description>
+        <description>
+            当SCP-035被置于受试对象面部时，SCP-035将生成一种与宿主的原有脑电波模式相重叠的脑电波，有效地扼杀宿主的脑电波并导致其脑死亡。
+        </description>
+        <description>
+            之后受试者会自称拥有SCP-035内含的意识。被“附身”的受试者躯体将高速腐烂，最终与木乃伊化无异。
+        </description>
+        <description>
+            尽管如此，SCP-035已被证明具有对具有严重结构性损伤的躯体保持认知控制的能力，即使受试者的躯体实际上已经腐烂到无法进行机械运动的程度。
+        </description>
+        <description>
+            将其置于动物面部没有发现任何效果。
+        </description>
+        <description>
+            SCP-035声称参与了大量重大事件，研究人员已得知了它与其他SCP项目相关的事件细节及其大体历史。
+        </description>
+        <description>
+            SCP-035表现出具有高度智能与号召力的人格，对所有对话者都表现得和蔼且谄媚。
+        </description>
+        <description>
+            SCP-035在给它安排的所有智能与资质测验中正确率均高达99%，且似乎拥有照相式记忆能力。
+        </description>
+        <description>
+            然而，心理分析发现SCP-035具有强烈的操纵倾向，能迫使采访者的心理状态发生急遽而深刻的变化。
+        </description>
+        <description>
+            SCP-035已被证明具有高度虐待狂倾向，仅凭语言诱导便能诱使人们自杀或将他们转变为几乎没有思维的仆从。
+        </description>
+        <description>
+            SCP-035声称其高度了解人类思维的运作方式，并表示如有足够时间，它可以改变任何人的思想。
+        </description>
+
+        <measures>
+            SCP-035被存放于一个壁厚不小于10厘米（4英寸）的密封玻璃容器中。
+        </measures>
+        <measures>
+            该容器始终被放置于一个包裹钢铁的铅屏蔽室内。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-035
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-106</id>
+
+        <name>恐怖老人</name>
+
+        <level>Keter</level>
+
+        <pic_src>scp-106 恐怖老人.jpg</pic_src>
+
+        <description>
+            SCP-106看起来是一个老年人形生物，通常有着高度腐烂的外形。
+        </description>
+        <description>
+            他的外形经常发生改变，但是那“腐烂”程度被观察到各种各样的形式。
+        </description>
+        <description>
+            SCP-106并不是十分灵敏，常会连续几天一动不动，等待着猎物。
+        </description>
+        <description>
+            SCP-106同样也可以攀附在任何竖直表面上，并能无限期地维持倒悬状态。
+        </description>
+        <description>
+            SCP-106将会试着使其猎物无力化，通常通过攻击主要器官、肌肉组织或者肌腱来实现这一点，然后将残疾的猎物拖入它的口袋空间之中。
+        </description>
+        <description>
+            SCP-106看起来更喜欢将在10-25年龄区段的人类作为其猎物。
+        </description>
+        <description>
+            SCP-106能够对其触碰的固体导致一种“腐蚀”效应，在触碰数秒之后导致物质的物理性崩溃。
+        </description>
+        <description>
+            材料会被观察到生锈、腐朽和最终崩溃的过程，并且会创造出一种黑色的、像黏液一样类似于包裹着SCP-106的物质的材料。
+        </description>
+        <description>
+            这种效应对于生命物体特别有害，并且这被认为是一种“消化前”行为。
+        </description>
+        <description>
+            这种腐蚀效应将会在触碰之后持续6个小时，在那之后这效应看起来就“烧尽”了。
+        </description>
+        <description>
+            SCP-106能够穿过固体物质，在它身后留下一大段的腐蚀性粘液。
+        </description>
+        <description>
+            SCP-106能够“消失”在固体物质之中，进入一种被假定为“口袋次元”的物质之中。
+        </description>
+        <description>
+            SCP-106接下来能够通过与任何它最初进入的固体物质相连的固体物质出去
+        </description>
+
+        <measures>
+            任何时候都不得与SCP-106进行任何物理性接触。
+        </measures>
+        <measures>
+            所有的物理性接触都需要O5级人员之中三分之二以上投票同意。
+        </measures>
+        <measures>
+            所有这些接触都必须在AR-II最大安全站点之中进行，并且要在一般的非必要人员进行撤离之后。
+        </measures>
+        <measures>
+            所有人员（包括研究、安保、D级人员等）必须在任何时候都离收容房间60m以上，除非是在收容失效事件之中。
+        </measures>
+        <measures>
+            SCP-106被收容在一个上锁的房间之中，该房间是由衬铅钢组成。
+        </measures>
+        <measures>
+            该房间必须被封锁于40层完全相同的材料之中，每一层材料之间都必须要有不少于36cm的间隔。
+        </measures>
+        <measures>
+            层与层之间的支撑架必须随机排列。该房间必须用ELO-IID电磁支持使之悬浮在离任何表面距离不低于60cm处。
+        </measures>
+        <measures>
+            第二层收容场所应该由16个球形“房间”组成，每一个之中都用不同的液体充满并且布满随机的支撑架和支撑表面。
+        </measures>
+        <measures>
+            第二层收容场所应该装配满灯光系统，使得该收容区域之中能够在不需要人员介入的情况下始终保持能够立刻充满不低于80000流明的光。
+        </measures>
+        <measures>
+            2个收容区域都应该保持24小时的不间断监视。
+        </measures>
+        <measures>
+            如果观察到在任何收容区域表面的任何腐蚀斑痕，工作人员，或者是在离SCP-106房间200范围以内的人员应该马上向站点安全处报告。
+        </measures>
+        <measures>
+            任何因为SCP-106而失去的人员或者物体都将会被认为是失踪/阵亡，并且不会有任何的援救尝试。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-106
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-682</id>
+
+        <name>不灭孽蜥</name>
+
+        <level>Keter</level>
+
+        <pic_src>scp-682 不灭孽蜥.jpg</pic_src>
+
+        <description>
+            SCP-682是一体型巨大、起源未知的爬行类生物。
+        </description>
+        <description>
+            它表现出极高的智能，在它与SCP-079有限的接触时间内，观察到它们之间进行了非常复杂的交流。
+        </description>
+        <description>
+            SCP-682表露出对所有生命的憎恶，收容期间与它的数次交流印证了这一点。
+        </description>
+        <description>
+            SCP-682一直被观察到具有极高的力量、速度和迅速反应能力，不过具体程度会随其形态而改变。
+        </description>
+        <description>
+            SCP-682物理躯体的生长和改变非常之快，通过进食或蜕皮，SCP-682能够使体型增大或减小。
+        </description>
+        <description>
+            SCP-682可以从它摄取的任何物质中获得能量，无论是有机物还是无机物。
+        </description>
+        <description>
+            SCP-682的消化似乎由鼻孔内的过滤鳃辅助，该鳃能吸收任何溶液中的有用物质，使其在被收容于酸液中时能够持续再生。
+        </description>
+        <description>
+            SCP-682的再生能力和适应能力非常惊人，且SCP-682在87%的身体被毁或腐烂的情况下仍然可以移动和交流。
+        </description>
+
+        <measures>
+            SCP-682必须被尽快消灭。
+        </measures>
+        <measures>
+            目前，SCP团队无法摧毁SCP-682，只能对它造成大量物理伤害。
+        </measures>
+        <measures>
+            SCP-682需被收容在5m x 5m x 5m的容器中，其中25cm厚的加固抗酸钢板内衬在所有内壁上。
+        </measures>
+        <measures>
+            收容容器需以盐酸填满，直到SCP-682完全沉没且无力反抗。
+        </measures>
+        <measures>
+            如果SCP-682试图移动、说话或破坏收容措施，必须快速做出反应并且视情况以全力应对。
+        </measures>
+        <measures>
+            为避免激怒SCP-682，禁止员工与其进行交谈。
+        </measures>
+        <measures>
+            任何尝试与SCP-682交流的未授权人员将被制止并强制带走。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-682
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-902</id>
+
+        <name>最后的倒计时</name>
+
+        <level>Keter</level>
+
+        <pic_src>scp-902 最后的倒计时.jpeg</pic_src>
+
+        <description>
+            SCP-902是一个约为成年人头颅大小的盒子。
+        </description>
+        <description>
+            其尺寸是30 cm x 15 cm x 19 cm。
+        </description>
+        <description>
+            SCP-902由铅制成。
+        </description>
+        <description>
+            SCP-902内部物品的成分不明。
+        </description>
+        <description>
+            它似乎是一个约三十年前型号的弹药盒，尽管基金会就已将其保管了约六十年。
+        </description>
+        <description>
+            SCP-902发出一种被描述为“嘀嗒”的声音，任何听到这声音的人均会相信该物品正在倒计时。
+        </description>
+        <description>
+            打开后，盒子内部似乎是空的。然而嘀嗒声持续，项目继续倒计时。
+        </description>
+        <description>
+            无论是通过亲自交互还是阅读这份报告，任何了解到SCP-902的人都会确信，盒里的物品极度危险，一旦它倒计时结束就应被立刻摧毁，且其不应在倒计时结束前被摧毁。
+        </description>
+        <description>
+            暴露于SCP-902的员工时常试图打开随后关上盒子，尝试找到盒内的物体。
+        </description>
+
+        <measures>
+            SCP-902已被转移至北极基地Theta-12，且为该站点收容的唯一一个SCP。
+        </measures>
+        <measures>
+            五十名安保人员驻扎在该基地。目前禁止对SCP-902的任何研究。
+        </measures>
+        <measures>
+            除其编号外的任何信息都不得向三级及以下员工开放。
+        </measures>
+        <measures>
+            必须仅有有限名高级员工得知SCP-902的存在。
+        </measures>
+        <measures>
+            只允许一名O5随时了解有关SCP-902的信息。
+        </measures>
+        <measures>
+            一旦北极基地Theta-12的安保从内部被破坏，基地内氢弹将会被远程引爆。
+        </measures>
+        <measures>
+            为防止被过早摧毁，SCP-902必须被时刻看守。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-902
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-1249-JP</id>
+
+        <name>汉字</name>
+
+        <level>Neutralized</level>
+
+        <pic_src>scp-1249-JP 汉字.jpg</pic_src>
+
+        <description>
+            SCP-1249-JP是一由多个“人”字集合起来的汉字图像
+        </description>
+        <description>
+            其现在的日文读法被认为是「なかしんでんたけおとしらかわみなみといとわはるたかとしおいわりゅうじとおうせりんとひきたしょうせいとはぎわらいつか1」。
+        </description>
+        <description>
+            SCP-1249-JP虽呈现出如同使用黑色墨水所书写的样子，但其构成成分至今仍是未知。
+        </description>
+        <description>
+            并且，未被收容的SCP-1249-JP，具有一定的使目击它的人立即理解其读法的模因性。
+        </description>
+        <description>
+            SCP-1249-JP的主要异常性质是，将在其所存在的笔记本周边2停留约20秒以上的人物的姓名加入其自身读法之中。
+        </description>
+        <description>
+            当有复数名停留人物时，推测SCP-1249-JP将随机选择一名人物并触发其异常性。
+        </description>
+        <description>
+            受SCP-1249-JP异常性所影响的人将消失，并且根据受影响的人数，构成SCP-1249-JP的“人”形文字将增加。
+        </description>
+        <description>
+            因其异常性而消失的人至今仍未被发现。
+        </description>
+
+        <measures>
+            存在SCP-1249-JP的笔记本已被收容于Site-8154内的低危险度物品收容柜中
+        </measures>
+        <measures>
+            现阶段禁止除为实验目的之外将其从收容柜中取出。
+        </measures>
+        <measures>
+            一旦确认发现新的SCP-1249-JP，应立即派出2名以上的特工前往回收，在新出现的SCP-1249-JP周围加上“区字旁（匚）”以确保其被彻底收容。
+        </measures>
+        <measures>
+            并且，需于因SCP-1249-JP的异常效应而消失的平民周边散布适当的虚假情报，以防止恐慌的发生。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-1249-jp
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-1508</id>
+
+        <name>家务玩具</name>
+
+        <level>Neutralized</level>
+
+        <pic_src>scp-1508 家务玩具.png</pic_src>
+
+        <description>
+            SCP-1508是一个由硬纸板，纸和塑料组成的人形实体。
+        </description>
+        <description>
+            SCP-1508行为完全自主，并且以人类步伐行走。
+        </description>
+        <description>
+            黑色墨迹的文字“Dr. Wondertainment©2003”被印刷在其背部。
+        </description>
+        <description>
+            当不对其施加遏制时，SCP-1508会尝试帮助最近的人类对象完成家务或者类似工作。
+        </description>
+        <description>
+            SCP-1508似乎更倾向于和年轻对象互动，虽然其互动并不仅限于年轻对象。
+        </description>
+        <description>
+            由于其组成和其活动范围限制，SCP-1508可能会花费三天尝试完成一件工作。
+        </description>
+        <description>
+            虽然其没有表现过需要任何形式的给养，通过这一段过程的分析得出其能感觉到疲倦，脱水以及类似人类的断肢和肌肉拉伤的感觉。
+        </description>
+        <description>
+            如果SCP-1508只是在从事非体力型的劳动的话，比如说是做作业，SCP-1508会坐在那里，用蜡笔绘画或者书写。
+        </description>
+        <description>
+            其画出的作品通常都粗糙且过于简化。
+        </description>
+        <description>
+            在书写时，SCP-1508可能会突然卡住并且不能移动，大约持续三天左右。
+        </description>
+        <description>
+            分析表明，在这一状态之前，其书写会变得戏剧性地清楚并且绘画会更能够被识别，但是没有记录到有过清楚的交流。
+        </description>
+        <description>
+            当在进行体力劳动时，SCP-1508能够改变身体部件的组成和大小。
+        </description>
+        <description>
+            比如，当在测试其在Site-77的一块地上割草时，其将腿部延长到2m并且手部出现橡胶钩爪以操作除草机。
+        </description>
+        <description>
+            当被要求洗一叠盘子时，其在手部生出一层塑料薄片以防水。
+        </description>
+        <description>
+            在修复通风系统的测试中，SCP-1508将自己的手臂伸长到超过20m以找到问题所在并将其修复。
+        </description>
+        <description>
+            挡在调整其身体时，其动作会变得呆板和笨拙。
+        </description>
+        <description>
+            在完成这些任务的过程中，其原本的简单表情转变为极度的焦虑，恐惧或者紧张。
+        </description>
+        <description>
+            一旦被分配了任务，SCP-1508似乎不能终止任务直到得到新的指令或者三天以后，之后其会回到“惰性”状态。
+        </description>
+
+        <measures>
+            SCP-1508被收容于Site-77的一间收容室中。
+        </measures>
+        <measures>
+            其将始终被抑制并监视。
+        </measures>
+        <measures>
+            如果SCP-1508帮助维护收容室或者试图妨碍维护人员，其将被暂时移动到另一房间。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-1508
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-1967-JP</id>
+
+        <name>复仇者</name>
+
+        <level>Neutralized</level>
+
+        <pic_src>scp-1697-JP 复仇者.jpeg</pic_src>
+
+        <description>
+            SCP-1697-JP是9月28日尼泊尔联邦民主共和国首都加德满都上空有秃鹫亚科（Aegypiinae）鸟类存在时才会出现的超小型飞机形状的物体。
+        </description>
+        <description>
+            SCP-1697-JP是由飞机上实际使用的零部件所构成，但仅出于外观目的，尚不清楚项目飞行能力的原因。
+        </description>
+        <description>
+            SCP-1697-JP出现在距离秃鹫亚科鸟类（之后称为对象）约5m的位置。
+        </description>
+        <description>
+            出现后SCP-1697-JP将冲向对象的任一翼。
+        </description>
+        <description>
+            没有发现一例对象可以避免与SCP-1697-JP发生碰撞。
+        </description>
+        <description>
+            SCP-1697-JP与对象激烈碰撞时，会刺穿对象皮肤侵入体内，并停留在体内。
+        </description>
+        <description>
+            之后对象会逐渐失去飞行能力，约3分钟后开始坠落2。坠落后对象的大脑会被点燃，并被完全燃烧。
+        </description>
+        <description>
+            SCP-1697-JP每天只出现一次。
+        </description>
+
+        <measures>
+            SCP-1697-JP被认为已经无效化。无需继续收容。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-1697-jp
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-1762</id>
+
+        <name>New-Dragon</name>
+
+        <level>Neutralized</level>
+
+        <pic_src>scp-1762 New-Dragon.jpg</pic_src>
+
+        <description>
+            SCP-1762-1是一扁平的纸板箱，大小为32 cm x 20 cm x 26 cm。
+        </description>
+        <description>
+            箱子的内部和外层都被涂成了银色，盒子的盖子上以无法擦去的黑色马克笔颜料写有“龙在此”字样。
+        </description>
+        <description>
+            在SCP-1762-1的内部在不处于释放阶段期间是空的。
+        </description>
+        <description>
+            SCP-1762-1偶尔会自动打开、开始释放SCP-1762-2。
+        </description>
+        <description>
+            这期间，盒子内会短暂地冒出大量很快消散的黑烟；
+        </description>
+        <description>
+            SCP-1762-2则会在烟雾消散后的平均20秒内出现。
+        </description>
+        <description>
+            SCP-1762-2是出现自SCP-1762-1的一种实体。
+        </description>
+        <description>
+            所有SCP-1762-2个体看起来似乎是折纸模型，其外形与各种类型的龙相似，包括东方龙和西方龙。
+        </description>
+        <description>
+            对SCP-1762-2的分析显示其是由Kami纸构成。
+        </description>
+        <description>
+            在从SCP-1762-1中出现后，SCP-1762-2个体会成群飞行，并与周围人员进行游戏式的互动，个体相互之间也会如此嬉戏。
+        </description>
+        <description>
+            SCP-1762-2长度从9cm到30cm不等；
+        </description>
+        <description>
+            所有个体在离开SCP-1762-1后均有能力持续进行飞行，最快速度可达15 km/h.
+        </description>
+        <description>
+            SCP-1762-1每次打开后出现的SCP-1762-2数量均不相等，范围在50到100只之间。
+        </description>
+        <description>
+            在SCP-1762-1外活动两到三小时后，所有的SCP-1762-2个体会飞回SCP-1762-1中；
+        </description>
+        <description>
+            在这期间SCP-1762-1会再次冒出烟雾，SCP-1762-2会在穿过SCP-1762-1开口边缘后消失。
+        </description>
+        <description>
+            SCP-1762-1会在所有SCP-1762-2返回后自动关闭；
+        </description>
+        <description>
+            而下次释放是在何时则并无固定规律。
+        </description>
+        <description>
+            有时，在SCP-1762-1回收完所有SCP-1762-2后，一道以各种材料书写或雕刻下的信息会出现在盒子盖子上。
+        </description>
+
+        <measures>
+            SCP-1762-1将被收容于Site-██的一处标准收容单元中。
+        </measures>
+        <measures>
+            SCP-1762-1释放SCP-1762-2的过程将被视频记录以供更多研究。
+        </measures>
+        <measures>
+            虽然SCP-1762-2个体已被确认为无害，不得使其离开收容房间。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-1762
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-098</id>
+
+        <name>疡蟹</name>
+
+        <level>Safe</level>
+
+        <pic_src>scp-098 疡蟹.jpg</pic_src>
+
+        <description>
+            SCP-098是一种之前未知的甲壳纲动物。
+        </description>
+        <description>
+            它们类似于螃蟹，但不同一般的螯，其前肢末端如同小刀般的构造，其包含硅，且边缘极端锋利。
+        </description>
+        <description>
+            个体比起一般陆生节肢动物来的大，有40厘米高、60厘米宽。
+        </description>
+        <description>
+            SCP-098个体更喜欢有可躲藏的环境和浅水池。
+        </description>
+        <description>
+            它们能在水中和空气中呼吸，并且分别在两边的环境消磨时间。
+        </description>
+        <description>
+            它们也能够使用附着于原始肺部的喉状构造发声。
+        </description>
+        <description>
+            当个体发现猎物时，它们会试图包围它。
+        </description>
+        <description>
+            它们将模仿该生物的声音，明显地使其困惑或吸引其至特定地点。
+        </description>
+        <description>
+            在准备好后，一个个体将接近猎物。在猎物注意力集中在第一个个体时，其余个体会移动到其后，并尝试切断其腿部肌腱或其他肢体。
+        </description>
+        <description>
+            它们将持续模仿猎物的声音使其迷惘。
+        </description>
+        <description>
+            在切断后，一个SCP-098个体将吐出粘液到其伤口上。
+        </description>
+        <description>
+            该粘液会迅速硬化，防止其血液流失或感染,这会持续至猎物完全无法移动为止。
+        </description>
+        <description>
+            此时，个体们会开始通过切割小片血肉来进食猎物。
+        </description>
+        <description>
+            此行为从软且易接近的组织开始，如面部和末端组织，之后移动至其余身体部位。
+        </description>
+        <description>
+            SCP-098个体只会进食还能呼吸的猎物,进食时间可持续数小时至数天，取决于猎物的大小和个体存在的数量。
+        </description>
+        <description>
+            SCP-098个体显示出些许沟通的能力，在近距离互相提醒存在威胁或潜在的食物。
+        </description>
+        <description>
+            最初认为SCP-098可能显示出人类水平的智力，不过现今认为其仅仅是模仿人类的言语。
+        </description>
+
+        <measures>
+            SCP-098成员应被收容在10m X 20m的房间，房间拥有小池塘和沙质基座。
+        </measures>
+        <measures>
+            石子和浮木在房间内随机摆放，以供SCP-098用来筑巢。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-098
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-127</id>
+
+        <name>活体枪</name>
+
+        <level>Safe</level>
+
+        <pic_src>scp-127 活体枪.jpeg</pic_src>
+
+        <description>
+            SCP-127，一眼看上去，像是一支标准MP5K微型冲锋枪。
+        </description>
+        <description>
+            测试显示它并不使用外装式金属子弹，整支武器都是有机化和活生生的。
+        </description>
+        <description>
+            武器的子弹最初看起来就像人类的牙齿。
+        </description>
+        <description>
+            尽管如此，DNA测试显示“子弹”并不属于地球上任何一个物种。
+        </description>
+        <description>
+            SCP-127可以切换为两个模式：半自动和全自动
+        </description>
+        <description>
+            在打光武器的“弹匣”后（60发装型号弹匣），它会在3-5天内重新长出子弹来。
+        </description>
+        <description>
+            试拿下弹匣的努力失败了，似乎这个弹匣是完全和武器永久镶嵌在一起的。
+        </description>
+        <description>
+            SCP-127除了水，钙，蛋白质外不需要任何其他营养。
+        </description>
+
+        <measures>
+            SCP-127在慎重考虑后认为并不比同型的普通枪支更为危险。
+        </measures>
+        <measures>
+            尽管如此，考虑到它令人惊奇的属性，在不使用的情况下它被浸泡在富含钙和蛋白质的水里，放在7-C武器库。
+        </measures>
+        <measures>
+            这个时候，只有SCP-127的指定研究小组才有权限使用它。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-127
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-846</id>
+
+        <name>机械老兄</name>
+
+        <level>Safe</level>
+
+        <pic_src>scp-846 机械老兄.png</pic_src>
+
+        <description>
+            SCP-846是一个塑料机器人，经测得20厘米高5厘米宽。
+        </description>
+        <description>
+            机器人的右脚底部印有文字“机械老兄®Wondertainment博士！”。
+        </description>
+        <description>
+            油漆碎片的痕迹和小小的划痕说明它大约有10个年头了，虽然试图向其提问此问题会被忽视。
+        </description>
+        <description>
+            SCP-846利用一个小小的“控制器”进行操作，上面有一个“On/Off”的按钮，一个“说话”的按钮和一个小麦克风。
+        </description>
+        <description>
+            SCP-846可以使用On/Off按钮启动，并且通过“说话”按钮进行口语交谈。
+        </description>
+        <description>
+            SCP-846似乎非常友好，没有情感并且会回答关于它的大多数问题。
+        </description>
+        <description>
+            SCP-846称自己为“机械老兄”，并声称自己具有350种“机械附件”
+        </description>
+        <description>
+            当被命令使用其中之一时，SCP-846的身体会展开，送出相应的附件，之后开始使用。
+        </description>
+        <description>
+            每次SCP-846被命令使用一个附件后，它的内部似乎会完全改变。
+        </description>
+        <description>
+            如果没有下达命令，似乎SCP-846是无法使用这些附件的。
+        </description>
+        <description>
+            SCP-846声称它拥有以下附件，除此之外还有其他东西：
+        </description>
+        <description>
+            一个“烈焰钻头”（已测试，就是一个火焰喷射器）
+        </description>
+        <description>
+            一个“能量激光”（已测试，就是一把手枪）
+        </description>
+        <description>
+            一个“隆隆射线”（已测试，就是一个火箭发射器）
+        </description>
+        <description>
+            一个“创世纪融化器”（已测试，向目标喷射酸液）
+        </description>
+        <description>
+            一个“超级离子长枪”（已测试，就是一支突击步枪）
+        </description>
+        <description>
+            一个“氢元素加农炮”（已测试，就是一支玩具水枪）
+        </description>
+        <description>
+            “灭虫喷射”（已测试，释放出不明生物吃光了木质目标）
+        </description>
+        <description>
+            一个“射线炮”（已测试，射出一束伽马射线流）
+        </description>
+        <description>
+            一个“核手雷”（严禁测试）
+        </description>
+
+        <measures>
+            SCP-846置于Site██的█号存储单元中一个加固钢质保险箱内。
+        </measures>
+        <measures>
+            SCP-846的收容区域由3名安保人员全时间看守。
+        </measures>
+        <measures>
+            对SCP-846的使用权必须经3名以上4级人员批准。
+        </measures>
+        <measures>
+            若任何人员未经批准进行测试，现场人员应立即予以拘禁和审问。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-846
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-893</id>
+
+        <name>无性生殖者</name>
+
+        <level>Safe</level>
+
+        <pic_src>scp-893 无性生殖者.jpg</pic_src>
+
+        <description>
+            SCP-893是一个自称████的39岁西班牙裔男性。
+        </description>
+        <description>
+            由SCP-893身上分割出的器官、肢体或具有一定质量的活体组织可以肉眼可见的速度增长并形成小型的人类胚胎
+        </description>
+        <description>
+            且都会发生一种快速分裂、疑似无性生殖的过程
+        </description>
+        <description>
+            由质量較少的组织成长而成的复制体，会表現出较低的智力和较短的寿命；
+        </description>
+        <description>
+            相对地，由质量较大的组织成长而成的复制体，則表現出较高的智力和较长的寿命。
+        </description>
+
+        <measures>
+            SCP-893可以在受到站点(Site)工作人员监视的情況下，自由在站点中闲逛。
+        </measures>
+        <measures>
+            已存在的SCP-893-X被安置于Site-17的婴儿室中。
+        </measures>
+        <measures>
+            任何新的SCP-893-X將会即时处决。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-893
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-4508</id>
+
+        <name>水獭先知</name>
+
+        <level>Safe</level>
+
+        <pic_src>scp-4508 水獭先知 .jpg</pic_src>
+
+        <description>
+            SCP-4508是一个高１.７米的雕像，
+        </description>
+        <description>
+            描绘了一个欧亚水獭(Lutra lutra)
+        </description>
+        <description>
+            其组成成分不明，目前还未发现破坏SCP-4508的可行方法。
+        </description>
+        <description>
+            刻在SCP-4508底部的是阿拉伯单词النبي1.
+        </description>
+        <description>
+            被封印在SCP-4508内的是一名名为Thomas Lapen的人类男性，命名为SCP-4508-1。
+        </description>
+        <description>
+            尽管SCP-4508-1没有进食或饮水的能力，但核磁共振扫描显示其生命体征仍然稳定。
+        </description>
+        <description>
+            目前尚不清楚SCP-4508-1是否清醒。
+        </description>
+
+        <measures>
+            SCP-4508目前被收容在Site-71的6号安全柜中。
+        </measures>
+        <measures>
+            超常生物学部门每月向发现地派遣巡逻队，如有必要，任何水獭种群将会被监视和控制。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-4508
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-3287</id>
+
+        <name>抗生育气体</name>
+
+        <level>Thaumiel</level>
+
+        <pic_src>scp-3287 抗生育气体.jpg</pic_src>
+
+        <description>
+            SCP-3287是一种气态绝育剂，由基金会为减少和控制特定异常及非异常动物种群数量而创造。
+        </description>
+        <description>
+            SCP-3287在室温下呈现气态，112 K下呈液态，不可燃。其特征为亮蓝色和一种特殊香气，被对象描述为“类似欧亚甘草”。
+        </description>
+        <description>
+            在接触活体对象后，SCP-3287会溶解，失去气态性质并被吸收。
+        </description>
+        <description>
+            SCP-3287有三种不同类型，编为SCP-3287-1、SCP-3287-2与SCP-3287-3。
+        </description>
+        <description>
+            所有类型的SCP-3287在化学成分上几乎相同，区分之处在于改变其效应的独特异常化合物。
+        </description>
+        <description>
+            SCP-3287-1是第一类SCP-3287，也是文档信息最全面的类别。
+        </description>
+        <description>
+            在被用于活体对象后，SCP-3287-1会令其完全绝育，使之无法繁殖。
+        </description>
+        <description>
+            曾将其用于人工保护特定野生动物物种，绝育其天敌；
+        </description>
+        <description>
+            也曾将如上所述地其用于阻止特定异常性动物创造后代。
+        </description>
+        <description>
+            SCP-3287-1可被用于人类，但需要4级批准后才可使用。
+        </description>
+        <description>
+            SCP-3287-2是第二类SCP-3287。
+        </description>
+        <description>
+            其在成分上与SCP-3287-1相似，但其功能当前未知。
+        </description>
+        <description>
+            虽然多次预定并尝试测试以确认SCP-3287-2的功能，但无一得以完成，因为所有随机选中的D级和动物测试候选者在测试开始前就已绝育。
+        </description>
+        <description>
+            SCP-3287-3是第三类SCP-3287,没有任何文件记录对SCP-3287-3的测试尝试。
+        </description>
+
+        <measures>
+            任何时候，不得有超过50个标准规格E级液态气罐的各类型SCP-3287存在。
+        </measures>
+        <measures>
+            这些气罐存于112开氏度的真空密封间内，只可由配备气体防护材料服的人员处置。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-3287
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-4583</id>
+
+        <name>全时代最恶流感</name>
+
+        <level>Thaumiel</level>
+
+        <pic_src>scp-4583 全时代最恶流感.jpg</pic_src>
+
+        <description>
+            SCP-4583是一种异常性的强传染力A型流感（H1N1）毒株。
+        </description>
+        <description>
+            SCP-4583感染的初期过程与其他非异常毒株相近似。
+        </description>
+        <description>
+            症状包括疲乏、呼吸短促、头晕、头痛/体痛、恶心、上呼吸道炎症、发烧。
+        </description>
+        <description>
+            SCP-4583-1是指SCP-4583的有症状携带者。
+        </description>
+        <description>
+            异常性质只会在发烧开始3后显现，大约是在最初感染的18小时后。
+        </description>
+        <description>
+            在足够的自主应激(剧烈咳嗽、喷嚏、呕吐）发生时，SCP-4583-1个体将遭遇随机性的认知性时间穿越。
+        </description>
+        <description>
+            SCP-4583-1 在这些事件中不会转移、复制、显现或消失；
+        </description>
+        <description>
+            此种穿越的机制实为认知上的因果重构。
+        </description>
+        <description>
+            SCP-4583-1经历到的穿越事件无法预测，但不会超出感染的时间段以外。
+        </description>
+        <description>
+            SCP-4583-1个体将其经历描述为正常事件序列变为乱序状态，这时常产生迷失和不适感。
+        </description>
+        <description>
+            在SCP-4583感染的症状发作时施以镇定能有效消除不适。
+        </description>
+
+        <measures>
+            CP-4583的活体样本当前保存在液氮容器内，位于Site-17内异常生物危害存储翼区的冷冻锁柜289-V。
+        </measures>
+        <measures>
+            用作测试必须得到至少1名5/4583级高级研究员及项目HMCL监督员(现为Dr. Raj Samra, L5/Δ)批准。
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-4583
+        </from>
+    </SCP>
+
+    <SCP>
+        <id>SCP-5983</id>
+
+        <name>核平纽约</name>
+
+        <level>Thaumiel</level>
+
+        <pic_src>scp-5983 核平纽约.jpg</pic_src>
+
+        <description>
+            SCP-5983是怀俄明州图灵县某次爆炸的威力与纽约市地铁运输效率的一种异常关系。
+        </description>
+        <description>
+            两者关系的特定方程尚未被推导明确，但可以认为成比例关系；
+        </description>
+        <description>
+            爆炸当量越强，当日地铁运行就将越快、越平稳。
+        </description>
+        <description>
+            自从2016年6月被发现以来，已经多次授权测试SCP-5983以确认其效应。
+        </description>
+
+        <measures>
+            对SCP-5983的测试目前已被O5指令禁止
+        </measures>
+
+        <from>
+            http://scp-wiki-cn.wikidot.com/scp-5983
+        </from>
+    </SCP>
+</SCPs>

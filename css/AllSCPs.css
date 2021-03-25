@@ -1,0 +1,42 @@
+html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    padding: 1vw 5vw 1vw 5vw;
+}
+
+#main-body{
+    width: 100%;
+    height: 100%;
+
+}
+
+table{
+    width: 100%;
+}
+
+.bd-right{
+    border-right: 1px rgb(99, 99, 99) solid;
+}
+
+th, td{
+    padding-left: 1.2vw;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: #6e6e6e;
+}

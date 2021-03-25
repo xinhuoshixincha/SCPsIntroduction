@@ -1,0 +1,121 @@
+html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+#main-body{
+    margin-top: 2vw;
+    margin-bottom: 15vw;
+    width: 100%;
+    background-color: #202020;
+    background-image: url("../img/InformationBacklogo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 33.04vw 30.96vw;
+    box-shadow: 0 0 1.0vw 0.2vw rgba(255, 255, 255, 0.5) inset;
+    border-radius: 2vw;
+    padding: 1vw 2vw 1vw 2vw;
+}
+
+nav{
+    width: 100%;
+    margin-top: 1vw;
+    margin-bottom: -1.2vw;
+}
+
+#logo-img{
+    width: 4vw;
+}
+
+#logo-text{
+    font-size: 1.5vw;
+    line-height: 3.5vw;
+}
+
+#collapsibleNavbar{
+    font-size: 1vw;
+}
+
+.bar-list:hover{
+    font-size: 1vw;
+    color: white;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.dropdown-menu{
+    background-image: linear-gradient(#1E0000, black, #202020);
+    /*border-radius: 1vw 1vw;*/
+}
+
+.dropdown-menu a{
+    color: white;
+    font-size: 0.3vw;
+}
+
+#information{
+    font-size: 1.1vw;
+    padding-bottom: 1vw;
+    border-bottom: 1px white dashed;
+}
+
+#description{
+    margin-top: 2vw;
+    padding-bottom: 1vw;
+    border-bottom: 1px white dashed;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#description-title{
+    font-size: 1.5vw;
+}
+
+#measures-title{
+    font-size: 1.5vw;
+}
+
+#measures{
+    margin-top: 2vw;
+    padding-bottom: 1vw;
+    border-bottom: 1px white dashed;
+}
+
+#footer{
+    padding-top: 1vw;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: #828282;
+}
+
+ul{
+    margin-top: 1vw;
+    font-size: 1vw;
+}
+
+li{
+    line-height: 2.5vw;
+}
